@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>DTData</Name>
+    <Assembly>BIMDelivery.dll</Assembly>
+    <AddInId>4335d18d-abb1-41b8-ba73-25aeb2738d79</AddInId>
+    <FullClassName>BIMDelivery.APPRibbon</FullClassName>
+    <VendorId>ZYF</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+  <!--<AddIn Type="Command">
+    <Assembly>C:\ProgramData\Autodesk\Revit\Addins\2018\XbimRevitPlugin.dll</Assembly>
+    <AddInId>c9b78a0f-b9ee-425e-8853-25add3bc15e1</AddInId>
+    <FullClassName>XbimRevitPlugin.XbimExportCmd</FullClassName>
+    <Text>导出xBIM</Text>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>-->
+</RevitAddIns>
